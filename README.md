@@ -1,3 +1,3 @@
-# Mata-Kuliah ALPOG
+# ALPOG
 Algoritma dan Pemrograman 
 source code
