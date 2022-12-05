@@ -27,3 +27,4 @@ int main() { //Fungsi utama saat program pertama kali dijalankan
     }  //Penutup dari else {
     return 0; //Untuk memberitahu kepada compiler bahwa program telah selesai dieksekusi
 } //Penutup dari int main(){
+//Luar biasa
